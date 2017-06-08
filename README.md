@@ -1,5 +1,7 @@
-# How to use
 Lightweight extension for Google Chrome browser with jQuery and minimum fuctionality.
+
+-------
+
 # How to use
 1. Edit `manifest.json`
 2. Write code to `content.js`
